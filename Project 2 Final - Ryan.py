@@ -1,8 +1,3 @@
-# Author: Ryan Mera
-# Date: 3/31/2021
-# Description: Project 2 Selection menu
-#
-
 import random
 
 def selectionMenu(playerName):
